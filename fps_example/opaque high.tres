@@ -1,0 +1,10 @@
+[gd_resource type="StandardMaterial3D" load_steps=2 format=3 uid="uid://2wcu1f2i3xx5"]
+
+[ext_resource type="Texture2D" uid="uid://duo8le153nyos" path="res://fps_example_color palette.png" id="1_sdpja"]
+
+[resource]
+resource_name = "opaque high"
+cull_mode = 2
+vertex_color_use_as_albedo = true
+albedo_texture = ExtResource("1_sdpja")
+texture_filter = 2

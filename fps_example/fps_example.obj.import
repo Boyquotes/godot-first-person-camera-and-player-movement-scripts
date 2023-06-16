@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cafw8ps50fnid"
+path="res://.godot/imported/fps_example.obj-86c1cd138762aaa4ed7b4570311f3981.mesh"
+
+[deps]
+
+files=["res://.godot/imported/fps_example.obj-86c1cd138762aaa4ed7b4570311f3981.mesh"]
+
+source_file="res://fps_example.obj"
+dest_files=["res://.godot/imported/fps_example.obj-86c1cd138762aaa4ed7b4570311f3981.mesh", "res://.godot/imported/fps_example.obj-86c1cd138762aaa4ed7b4570311f3981.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
